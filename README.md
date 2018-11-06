@@ -1,0 +1,2 @@
+# HaskellNote
+Learn Haskell
